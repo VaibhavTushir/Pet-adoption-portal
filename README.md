@@ -11,17 +11,15 @@ This project has been completely refactored from a classic server-side rendered 
 ## 📋 Table of Contents
 
 1.  [Key Features](#-key-features)
-2.  [Live Demo](#-live-demo) (Coming Soon)
-3.  [Technology Stack](#-technology-stack)
-4.  [Architecture](#-architecture)
-5.  [Project Structure](#-project-structure)
-6.  [Setup and Installation](#️-setup-and-installation)
-7.  [Running the Application](#️-running-the-application)
-8.  [API Endpoints](#-api-endpoints)
-9.  [Future Enhancements](#-future-enhancements)
-10. [Contributing](#-contributing)
-11. [License](#-license)
-12. [Author](#-author)
+2.  [Technology Stack](#-technology-stack)
+3.  [Architecture](#-architecture)
+4.  [Project Structure](#-project-structure)
+5.  [Setup and Installation](#️-setup-and-installation)
+6.  [Running the Application](#️-running-the-application)
+7.  [API Endpoints](#-api-endpoints)
+8.  [Future Enhancements](#-future-enhancements)
+9. [Contributing](#-contributing)
+10. [Author](#-author)
 
 ---
 
@@ -201,12 +199,6 @@ Contributions are what make the open-source community such an amazing place to l
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
----
-
-## 📝 License
-
-This project is distributed for academic and personal use. Please see the `LICENSE` file for more information.
 
 ---
 
