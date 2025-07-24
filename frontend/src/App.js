@@ -17,9 +17,6 @@ import AdminLogin from './pages/AdminLogin';
 import AdminDashboard from './pages/AdminDashboard';
 import NotFound from './pages/NotFound';
 
-// You can import your App.css here if you have one, or just rely on index.css
-// import './App.css';
-
 function App() {
   return (
     <AuthProvider>
