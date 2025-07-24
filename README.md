@@ -1,7 +1,5 @@
 # 🐾 Pawsitive Match - Pet Adoption Portal
 
-![Pawsitive Match Logo](backend/public/images/logo.png)
-
 **Pawsitive Match** is a modern, full-stack web application designed to connect potential pet adopters with animals in need from various shelters. It provides a seamless, interactive experience for users looking for a new companion and a powerful dashboard for shelters to manage their pets and adoption requests.
 
 This project has been completely refactored from a classic server-side rendered application to a **decoupled, API-first architecture** featuring a **React Single Page Application (SPA)** and a **Node.js (Express) REST API** backend.
