@@ -11,13 +11,12 @@ This project has been completely refactored from a classic server-side rendered 
 1.  [Key Features](#-key-features)
 2.  [Technology Stack](#-technology-stack)
 3.  [Architecture](#-architecture)
-4.  [Project Structure](#-project-structure)
-5.  [Setup and Installation](#️-setup-and-installation)
-6.  [Running the Application](#️-running-the-application)
-7.  [API Endpoints](#-api-endpoints)
-8.  [Future Enhancements](#-future-enhancements)
-9. [Contributing](#-contributing)
-10. [Author](#-author)
+4.  [Setup and Installation](#️-setup-and-installation)
+5.  [Running the Application](#️-running-the-application)
+6.  [API Endpoints](#-api-endpoints)
+7.  [Future Enhancements](#-future-enhancements)
+8. [Contributing](#-contributing)
+9. [Author](#-author)
 
 ---
 
@@ -68,12 +67,6 @@ The application follows a decoupled, two-tier architecture:
 1.  **Frontend (Client-Side):** A React Single Page Application that handles all user interface logic and rendering. It communicates with the backend via API calls to fetch and send data, providing a dynamic and fluid user experience without page reloads.
 
 2.  **Backend (Server-Side):** A Node.js/Express REST API that is responsible for business logic, database interactions, authentication, and serving static assets (like images). It is completely stateless from the client's perspective, only responding to HTTP requests with JSON data.
-
----
-
-## 📂 Project Structure
-
-The project is organized into two main directories: `backend` and `frontend`.
 
 ---
 
